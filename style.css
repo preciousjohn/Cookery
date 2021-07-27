@@ -589,3 +589,9 @@ footer ul{
             font-size: 35px;
         }
 }
+
+@media (max-width:480px){
+    input{
+        margin-left: 0;
+    }
+}
