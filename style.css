@@ -222,7 +222,6 @@ li.active:after{
     grid-template-columns: repeat(5, 1fr);
     gap: 20px;
     margin-top: 20px;
-    cursor: pointer;
     transition: 0 5s;
 }
 
@@ -236,6 +235,7 @@ li.active:after{
     margin: 10px 15px;
     background-position: center;
     background-size: cover;
+    cursor: pointer;
 }
 .card:hover{
     transform: translateY(-10px);
