@@ -601,4 +601,7 @@ footer ul{
 form input{
     width: 280px;
 }
+button{
+    right: -10px;
+}
 }
