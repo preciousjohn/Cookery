@@ -593,8 +593,9 @@ footer ul{
 @media (max-width:480px){
     input{
         margin-left: 0;
+        font-size: 14px;
     }
     .search-rest input {
-        width: 200px;
+        width: 230px;
     }
 }
