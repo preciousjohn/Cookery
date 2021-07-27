@@ -235,7 +235,6 @@ li.active:after{
     margin: 10px 15px;
     background-position: center;
     background-size: cover;
-    cursor: pointer;
 }
 .card:hover{
     transform: translateY(-10px);
@@ -598,4 +597,8 @@ footer ul{
     .search-rest input {
         width: 230px;
     }
+    
+form input{
+    width: 280px;
+}
 }
