@@ -594,4 +594,7 @@ footer ul{
     input{
         margin-left: 0;
     }
+    .search-rest input {
+        width: 200px;
+    }
 }
