@@ -604,4 +604,12 @@ form input{
 button{
     right: -10px;
 }
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.box{
+    padding: 8px;
+}
 }
