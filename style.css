@@ -175,9 +175,9 @@ li.active:after{
     border-radius: 50px;
     line-height: 50px;
 }
-/* .search-rest .fa{
+ .search-rest .fa{
     margin-right: 10px;
-} */
+} 
 
 /*about*/
 .offer{
@@ -341,7 +341,7 @@ form input{
     background-color: #fff;
     border: 0px;
 }
-input{
+form input{
     margin-left: 16%;
     margin-bottom: 30px;
 }
