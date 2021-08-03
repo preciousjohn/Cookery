@@ -615,3 +615,6 @@ form{
 form input{
     margin-top: 50px;}
 }
+.nav-bar.active{
+  display: block;
+}
